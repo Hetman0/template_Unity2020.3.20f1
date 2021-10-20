@@ -1,0 +1,1 @@
+Folder for meta data that is not suppose to be used by devs
